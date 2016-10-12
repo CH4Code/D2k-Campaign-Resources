@@ -1,0 +1,14 @@
+F:\x86\OpenRA>OpenRA.Utility.exe        d2k     --import-d2k-map        A6V1.MAP	BLOXBGBS.R8
+Tile with index 611 could not be found in the tileset YAML file!
+Defaulting to a "clear" tile for coordinates (44, 34)!
+Tile with index 612 could not be found in the tileset YAML file!
+Defaulting to a "clear" tile for coordinates (45, 34)!
+Tile with index 613 could not be found in the tileset YAML file!
+Defaulting to a "clear" tile for coordinates (46, 34)!
+Tile with index 631 could not be found in the tileset YAML file!
+Defaulting to a "clear" tile for coordinates (44, 35)!
+Tile with index 632 could not be found in the tileset YAML file!
+Defaulting to a "clear" tile for coordinates (45, 35)!
+Tile with index 633 could not be found in the tileset YAML file!
+Defaulting to a "clear" tile for coordinates (46, 35)!
+A6V1.oramap saved.
